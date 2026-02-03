@@ -1,4 +1,4 @@
-# \# SAL 603 Final Project
+# \#SAL 603 Final Project
 
 
 
@@ -6,7 +6,7 @@ Details for this project have yet to be assigned. The following sections will be
 
 
 
-\## Final Project Title
+\##Final Project Title
 
 
 
@@ -14,7 +14,7 @@ To Be Determined
 
 
 
-\## Final Project Description
+\##Final Project Description
 
 
 
@@ -22,7 +22,7 @@ This project will aim to analyze NBA performance metrics in Python. The primary 
 
 
 
-\## Final Project Status
+\##Final Project Status
 
 
 
