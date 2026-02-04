@@ -1,8 +1,8 @@
-\# SAL 603 Final Project
+# SAL 603 Final Project
 
 
 
-\## Final Project Title
+## Final Project Title
 
 
 
@@ -10,7 +10,7 @@ To Be Determined
 
 
 
-\## Final Project Description
+## Final Project Description
 
 
 
@@ -18,7 +18,7 @@ This project will aim to analyze NBA performance metrics in Python. The primary 
 
 
 
-\## Current Final Project Status
+## Current Final Project Status
 
 
 
