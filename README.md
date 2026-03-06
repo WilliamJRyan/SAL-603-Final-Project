@@ -6,7 +6,7 @@
 
 
 
-To Be Determined
+NBA Advanced Metrics Analysis
 
 
 
@@ -14,13 +14,17 @@ To Be Determined
 
 
 
-This project will aim to analyze NBA performance metrics in Python. The primary focus will be on the individual team performance. If data/time permits, analysis may explore individual player/personnel impact
-
+The project was an analysis on the advanced metrics that make up the NBA.
+I took a look at the impact of these metrics and how they relate to winning.
+I was able to numerically show what metrics are strongly related to the success of NBA teams.
 
 
 ## Current Final Project Status
 
 
 
-Conceptual
+Completed
 
+## Data Source
+
+Basketball Reference
